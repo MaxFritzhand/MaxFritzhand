@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate creative software engineer with 5+ years of commercial experience. Development is my playground for creativity. Avid cook. Always experimenting in the kitchen. I recently made a delicious mushroom risotto! 
+Passionate creative software engineer with 6+ years of commercial experience. Development is my playground for creativity. Avid cook. Always experimenting in the kitchen. I recently made a delicious mushroom risotto! 
 
 
 <details open>
